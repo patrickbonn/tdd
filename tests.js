@@ -3,3 +3,4 @@ const checkUsername = (user) => {
 }
 
 console.log("Username is just letters: ",  checkUsername("Tommy"))
+// hallo
